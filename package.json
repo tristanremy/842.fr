@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://shortener-demo.netlify.com",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  }
+}
