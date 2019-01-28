@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://shortener-demo.netlify.com",
+  "baseUrl": "https://842.fr/",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
